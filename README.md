@@ -10,7 +10,7 @@ Pandas, NumPy, Matplotlib, and Scikit-Learn libraries
 Once you have all the necessary software installed, you can open the sales_prediction.ipynb file in Jupyter Notebook and run the cells to see the results.
 
 ## Data
-The data used in this notebook is a sample dataset of sales data containing various input variables such as Item MPR, Item Type, etc. The dataset can be found in the data folder.
+The data used in this notebook is a sample dataset of sales data containing various input variables such as Item MPR, Item Type, etc. The dataset can be found in the main folder with the name sales_predictions.csv.
 
 # Exploratory Data Analysis
 Before building a machine learning model to predict sales, we first explore the data and analyze the relationships between the input variables and the target variable (Item Outlet Sales). This section includes visualizations and statistical analysis to help us understand the data.
